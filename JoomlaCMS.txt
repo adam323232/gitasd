@@ -1,0 +1,14 @@
+Joomla:
+
+A Joomla egy nyílt forráskódú, ingyenes, PHP-ben írt CMS rendszer. A Joomla a legnépszerűbb CMS-ek között van, amelyet a világon használnak.
+
+Fejlesztési dinamika:
+
+A Joomla fejlesztése 2005-ben kezdődött, és azóta folyamatosan fejlődik.
+A Joomla 3.9.14-es verziója 2019. március 26-án jelent meg.
+A Joomla folyamatosan frissül, és új funkciókat és bővítményeket kap.
+Használhatóság:
+
+A Joomla egyszerűen használható, és nem igényel speciális ismereteket.
+A Joomla sokféle bővítményt és témát kínál, amelyekkel testre szabható a weboldal.
+A Joomla támogatja a többnyelvű tartalmakat, és könnyen integrálható más weboldalakkal.

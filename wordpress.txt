@@ -1,0 +1,14 @@
+WordPress:
+
+A WordPress egy nyílt forráskódú, ingyenes blogging és tartalomkezelő rendszer (CMS), amelyet a PHP-ben írtak. A WordPress a legnépszerűbb CMS, amelyet a világon használnak.
+
+Fejlesztési dinamika:
+
+A WordPress fejlesztése 2003-ban kezdődött, és azóta folyamatosan fejlődik.
+A WordPress 4.9-es verziója 2018. december 13-án jelent meg.
+A WordPress folyamatosan frissül, és új funkciókat és bővítményeket kap.
+Használhatóság:
+
+A WordPress egyszerűen használható, és nem igényel speciális ismereteket.
+A WordPress sokféle bővítményt és témát kínál, amelyekkel testre szabható a weboldal.
+A WordPress támogatja a többnyelvű tartalmakat, és könnyen integrálható más weboldalakkal.
